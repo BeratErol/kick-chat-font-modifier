@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Kick Chat Font Ayarı",
+  "version": "1.0",
+  "description": "Kick.com chat yazı boyutunu ayarlar",
+  "permissions": ["storage", "activeTab"],
+  "host_permissions": ["https://kick.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://kick.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
