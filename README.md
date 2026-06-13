@@ -12,7 +12,6 @@ Bu uzantı, giriş yapma zorunluluğunu ortadan kaldırarak Kick chat arayüzün
   <img src="preview.png" alt="Kick Chat Font Modifier UI" width="350"/>
 </p>
 
-<br/>
 
 ## ✨ Özellikler
 
