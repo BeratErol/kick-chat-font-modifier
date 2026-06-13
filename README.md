@@ -5,6 +5,7 @@ Kick.com üzerinde herhangi bir yayını izlerken, platformun kendi yapısı ger
 Bu uzantı, giriş yapma zorunluluğunu ortadan kaldırarak Kick chat arayüzündeki mesaj boyutunu, kullanıcı adı boyutunu ve satır aralığını dilediğiniz gibi özelleştirmenizi sağlar. Canlı güncellemeleri destekler ve sayfa geçişlerinde (SPA navigation) ayarlarınızı korur.
 
 
+
 <br/>
 
 <p align="center">
